@@ -1,0 +1,3 @@
+I made this to make wake on lan setup easy on linux.
+will probably make one for windows in future too.
+probably...
